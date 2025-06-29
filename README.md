@@ -1,6 +1,7 @@
-## Hi there 👋 I'm Dhanush
+## Hi there 👋 I'm Dhanush 
+A [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) user
 # 💫 About Me:
-🔭 I’m currently working on Rust Based Webkit Browser on Linux<br>🌱 I’m currently learning Rust,Webkitgtk<br>👨‍💻 All of my projects are available at https://dhanush-proj.github.io/<br>📄 Know about my experiences https://drive.google.com/file/d/1Lx-sneNM6ZH3klm0i6-DLrCxZiE2pZTl/view?usp=drive_link<br>📫 How to reach me dhanushpreji5@gmail.comzzz
+🔭 I’m currently working on Rust Based Webkit Browser on Linux<br>🌱 I’m currently learning Rust,Webkitgtk<br>👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Dhanush-Proj)<br>📄 Know about my experiences https://drive.google.com/file/d/1Lx-sneNM6ZH3klm0i6-DLrCxZiE2pZTl/view?usp=drive_link<br>📫 How to reach me dhanushpreji5@gmail.comzzz
 
 
 ## 🌐 Socials:
