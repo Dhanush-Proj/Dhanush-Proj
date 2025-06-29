@@ -1,7 +1,7 @@
 ## Hi there <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> I'm Dhanush 
 A [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) user
 # 💫 About Me:
-🔭 I’m currently working on Rust Based Webkit Browser on Linux<br>🌱 I’m currently learning Rust,Webkitgtk<br>👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Dhanush-Proj)<br>📄 Know about me [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](https://drive.google.com/file/d/1Lx-sneNM6ZH3klm0i6-DLrCxZiE2pZTl/view?usp=sharing) <br>📫 How to reach me dhanushpreji5@gmail.com
+🔭 I’m currently working on Rust Based Webkit Browser on Linux<br>🌱 I’m currently learning Rust,Webkitgtk<br>👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Dhanush-Proj)<br>📄 Know about me [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Lx-sneNM6ZH3klm0i6-DLrCxZiE2pZTl/view?usp=sharing) <br>📫 How to reach me dhanushpreji5@gmail.com
 
 
 ## 🌐 Socials:
