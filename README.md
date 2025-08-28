@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Rust Based Webkit Browser on Linux<br>🌱 I’m currently learning Rust,Webkitgtk<br>👨‍💻 All of my projects are available at <br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhanush-Proj)<br>🪪 [Portfolio](https://dhanush-proj.github.io/) <br> 📄 Know about me <br> [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Lx-sneNM6ZH3klm0i6-DLrCxZiE2pZTl/view?usp=sharing) <br>📫 How to reach me dhanushpreji5@gmail.com
+<br>🌱 I’m currently learning Go <br>👨‍💻 All of my projects are available at <br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhanush-Proj)<br>🪪 [Portfolio](https://dhanush-proj.github.io/) <br> 📄 Know about me <br> [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Lx-sneNM6ZH3klm0i6-DLrCxZiE2pZTl/view?usp=sharing) <br>📫 How to reach me dhanushpreji5@gmail.com
 
 
 ## 🌐 Socials:
