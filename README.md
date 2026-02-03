@@ -1,4 +1,4 @@
-# 👨‍💻 Dhanush P Reji
+# 👨‍💻 Dhanush P Reji 
 
 <p align="left">
   <img
@@ -12,26 +12,24 @@
 ## 💻 Tech Stack & Tooling
 
 <p align="left">
-  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" /></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" /></a>
-  <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" /></a>
-  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
-  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://go.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg" /></a>
+  <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" /></a>
+  <a href="https://www.rust-lang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg" /></a>
+  <a href="https://isocpp.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" /></a>
+  <a href="https://en.cppreference.com/w/c"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg" /></a>
+  <a href="https://www.oracle.com/java/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" /></a>
   <br />
-  <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" /></a>
-  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" /></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg" /></a>
+  <a href="https://react.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" /></a>
+  <a href="https://www.mysql.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" /></a>
   <br />
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" /></a>
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://www.docker.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg" /></a>
+  <a href="https://www.linux.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg" /></a>
 </p>
 
 ---
