@@ -49,7 +49,16 @@
 </p>
 
 ---
+---
 
+### 🕒 Latest Engineering Logs
+<p align="center">
+  <img src="https://github.com/Dhanush-Proj/Dhanush-Proj/blob/master/metrics.plugin.activity.svg" alt="Recent Activity" width="100%" />
+</p>
+
+<p align="right">
+  <i>Last telemetry sync: 2026-02-03</i>
+</p>
 ### 🛡️ GitHub Trophies
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Dhanush-Proj&theme=dracula&no-bg=true&column=4&margin-w=15&hide_border=true" />

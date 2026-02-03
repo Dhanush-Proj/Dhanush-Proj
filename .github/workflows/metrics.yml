@@ -1,0 +1,20 @@
+name: Recent Activity Dashboard
+on:
+  schedule: [{ cron: "0 * * * *" }] # Updates every hour
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: "" # This ensures only the activity plugin is rendered
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_days: 14
+          plugin_activity_filter: push, issue, pr, release, review
+          config_timezone: Asia/Kolkata # Set to your local time
+          theme: radical
