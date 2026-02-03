@@ -79,9 +79,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="left">
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dhanush-Proj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
 
 ---
 
