@@ -45,45 +45,32 @@
 
 ## 📊 GitHub Performance
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Dhanush-Proj&show_icons=true&theme=transparent&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF&hide_border=true"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Proj&layout=compact&theme=transparent&title_color=00D1FF&text_color=ffffff&hide_border=true"
-    width="45%"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanush-Proj&theme=transparent&fire=00D1FF&ring=00D1FF&sideNums=ffffff&sideLabels=ffffff&stroke=00D1FF&hide_border=true"
-    width="95%"
-  />
-</p>
+<img algin='right' width='49.7%' src='https://github-readme-stats-fast.vercel.app/api/streak?username=Dhanush-Proj&theme=gruvbox' />
+
+
 
 ---
 
-## 🕒 Engineering Activity
-
-<p align="center">
-  <img
-    src="https://metrics.lecoq.io/Dhanush-Proj?template=classic&activity=1&activity.limit=5&activity.days=14&activity.filter=all&theme=dark"
-    width="100%"
-    alt="Recent GitHub Activity"
-  />
-</p>
+<img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=Dhanush-Proj&count_private=true&show_icons=true&theme=gruvbox' />
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dhanush-Proj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=Dhanush-Proj&theme=gruvbox&column=11'>
 
 ---
+<div>
+  
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ </h2>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-Proj&bg_color=282828&color=ebdbb2&line=fe8019&point=fbf1c7&area=false&hide_border=false"
+  style="border-radius: 15px;"
+/>
+</div>
+---
 
-## 🌐 Digital Presence
 
 <p align="left">
   <a href="https://linkedin.com/in/dhanush-p-reji-049300308">
