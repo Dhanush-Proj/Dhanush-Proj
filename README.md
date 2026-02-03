@@ -88,7 +88,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Dhanush-Proj&icon=4&color=9" />
-</p>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=65&section=footer&color=0:282828,100:3c3836"
+/>
