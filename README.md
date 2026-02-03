@@ -80,9 +80,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="left">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Dhanush-Proj&theme=dracula&no-bg=true&column=4&margin-w=15&hide_border=true"
-  />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dhanush-Proj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
