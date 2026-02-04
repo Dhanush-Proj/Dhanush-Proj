@@ -2,7 +2,7 @@
 
 <p align="left">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&width=435&lines=Full+Stack+Developer;Backend+%26+Systems+Engineering;Computer+Vision+Enthusiast;Currently+learning+Go"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&width=435&lines=Hai+,+Your+Normal+Everyday+Programmer"
     alt="Typing SVG"
   />
 </p>
