@@ -1,91 +1,47 @@
 # 👨‍💻 Dhanush P Reji 
 
 <p align="left">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&width=435&lines=Hai"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FE8019&width=435&lines=Normal+Programmer;Nerd" alt="Typing SVG" />
+</p>
+
+> Turning caffeine into performance-critical code and scalable systems.
+
+### 🛠️ Tech Stack & Tooling
+
+**Languages**
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frameworks & Infrastructure**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+---
+
+### 🚀 Focus Areas
+*   **Systems Programming:** Low-level wizardry in C++ and Rust.
+*   **Backend Architecture:** Building robust services with Go & Python.
+*   **Computer Vision:** Image pipelines and emotion recognition (OpenCV/DeepFace).
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Dhanush-Proj&theme=gruvbox" />
+  <img width="48%" src="https://readme-stats-fabio-vicente.vercel.app/api?username=Dhanush-Proj&count_private=true&show_icons=true&theme=gruvbox" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-Proj&bg_color=282828&color=ebdbb2&line=fe8019&point=fbf1c7&area=false&hide_border=false" width="100%" />
 </p>
 
 ---
 
-## 💻 Tech Stack & Tooling
+### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://go.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg" /></a>
-  <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" /></a>
-  <a href="https://www.rust-lang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg" /></a>
-  <a href="https://isocpp.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" /></a>
-  <a href="https://en.cppreference.com/w/c"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg" /></a>
-  <a href="https://www.oracle.com/java/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" /></a>
-  <br />
-  <a href="https://dotnet.microsoft.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg" /></a>
-  <a href="https://www.djangoproject.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg" /></a>
-  <a href="https://react.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" /></a>
-  <a href="https://www.mysql.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" /></a>
-  <br />
-  <a href="https://www.docker.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg" /></a>
-  <a href="https://www.linux.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg" /></a>
+  <a href="mailto:dhanushpreji5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dhanush-p-reji-049300308"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dhanush-proj.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
 
----
-
-## 🚀 Engineering Focus
-- **Backend Architecture:** Scalable services in **Go** & **Python**
-- **Computer Vision:** Emotion recognition & image pipelines (**OpenCV**, **DeepFace**)
-- **Systems Programming:** Performance-critical code in **Rust** and **C++**
-
----
-
-## 📊 GitHub Performance
-
-
-<img algin='right' width='49.7%' src='https://github-readme-stats-fast.vercel.app/api/streak?username=Dhanush-Proj&theme=gruvbox' />
-
-
-
----
-
-<img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=Dhanush-Proj&count_private=true&show_icons=true&theme=gruvbox' />
-
----
-
-## 🏆 GitHub Trophies
-
-<img src='https://hacked-github-stat-trophies.vercel.app/?username=Dhanush-Proj&theme=gruvbox&column=11'>
-
----
-<div>
-  
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ </h2>
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-Proj&bg_color=282828&color=ebdbb2&line=fe8019&point=fbf1c7&area=false&hide_border=false"
-  style="border-radius: 15px;"
-/>
-</div>
----
-
-
-<p align="left">
-  <a href="https://linkedin.com/in/dhanush-p-reji-049300308">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dhanush-proj.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <a href="https://x.com/attakingbolt">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:dhanushpreji5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=65&section=footer&color=0:282828,100:3c3836"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=65&section=footer&color=0:282828,100:fe8019" />
