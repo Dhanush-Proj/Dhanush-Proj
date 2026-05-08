@@ -30,11 +30,6 @@
   <img width="48%" src="https://readme-stats-fabio-vicente.vercel.app/api?username=Dhanush-Proj&count_private=true&show_icons=true&theme=gruvbox" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-Proj&bg_color=282828&color=ebdbb2&line=fe8019&point=fbf1c7&area=false&hide_border=false" width="100%" />
-</p>
-
----
 
 ### 🤝 Connect with Me
 
